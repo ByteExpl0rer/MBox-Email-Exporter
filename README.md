@@ -30,4 +30,4 @@ MBox Email Exporter is a Python script to analyze **mbox** email archives and ge
 1. Clone the repository:  
 
 ```bash
-git clone https://github.com/<your-username>/MBox-Email-Exporter.git
+git clone https://github.com/ByteExpl0rer/MBox-Email-Exporter.git
